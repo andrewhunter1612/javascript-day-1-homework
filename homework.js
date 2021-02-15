@@ -1,4 +1,4 @@
-// this should give the correct answer
+// 1 - themurderer is miss scarlet
 
 // const scenario = {
 //     murderer: 'Miss Scarlet',
