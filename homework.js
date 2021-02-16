@@ -23,12 +23,11 @@
 
 // 6 - murderer is mrs white
 
-// 7 - murderer is miss scarlet
+// 7 - murderer is mr green
 
-// 8 - weapon is lead pipe, murderer is col mustard, room is dining room
+// 8 - weapon is candlestick, murderer is col mustard, room is dining room
 
 // 9 - murderer is prof plum
-
 
 
 
